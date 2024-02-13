@@ -8,6 +8,10 @@ Potential updates include:
 - do sequential tasks
 and more 
 
+# Requirements
+- Google Search API - go to https://serpapi.com/ to get the API key and save as environment variable in .env file.
+- OpenAI API - go to https://platform.openai.com/docs/api-reference to get the API key and save as environment variable in .env file.
+
 ## How to use the AI Agent
 - Install node.js.
 - Clone the repository.
